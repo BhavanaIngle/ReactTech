@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 import "./Header.css";
 
 function Header() {
@@ -7,13 +9,13 @@ function Header() {
       <nav className="navbar">
         <ul className="nav-list">
           <li className="nav-item">
-            <a href="/">Home</a>
+            <Link to="/">Home</Link>
           </li>
           <li className="nav-item">
-            <a href="/about">About</a>
+            <Link to="/work">Work</Link>
           </li>
           <li className="nav-item">
-            <a href="/contact">Contact</a>
+            <Link to="/publications">Publications</Link>
           </li>
         </ul>
       </nav>
