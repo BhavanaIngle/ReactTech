@@ -1,0 +1,6 @@
+.section-container {
+  margin: 20px; /* Adjust the margin as needed */
+  padding: 20px;
+  background-color: #f8f9fa; /* Example background color */
+  border: 10px solid red; /* Example border */
+}
