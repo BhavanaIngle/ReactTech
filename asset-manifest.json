@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactTech/static/css/main.7ef88db3.css",
+    "main.js": "/ReactTech/static/js/main.5f8eb261.js",
+    "static/js/453.3a2a815d.chunk.js": "/ReactTech/static/js/453.3a2a815d.chunk.js",
+    "static/media/img1.jpg": "/ReactTech/static/media/img1.7f24e1c157b95b676e3d.jpg",
+    "static/media/img2.jpg": "/ReactTech/static/media/img2.7f24e1c157b95b676e3d.jpg",
+    "index.html": "/ReactTech/index.html",
+    "main.7ef88db3.css.map": "/ReactTech/static/css/main.7ef88db3.css.map",
+    "main.5f8eb261.js.map": "/ReactTech/static/js/main.5f8eb261.js.map",
+    "453.3a2a815d.chunk.js.map": "/ReactTech/static/js/453.3a2a815d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef88db3.css",
+    "static/js/main.5f8eb261.js"
+  ]
+}
